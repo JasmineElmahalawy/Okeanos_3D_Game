@@ -1,0 +1,40 @@
+
+
+newmtl 00_TemploApollo_rc_r1_Material
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+
+newmtl 00_TemploApollo_rc_r1_Material_u1_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd 00_TemploApollo_rc_r1_u1_v1.jpeg
+
+newmtl 00_TemploApollo_rc_r1_Material_u2_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd 00_TemploApollo_rc_r1_u2_v1.jpeg
+
+newmtl 00_TemploApollo_rc_r1_Material_u1_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd 00_TemploApollo_rc_r1_u1_v2.jpeg
+
+newmtl 00_TemploApollo_rc_r1_Material_u2_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd 00_TemploApollo_rc_r1_u2_v2.jpeg
