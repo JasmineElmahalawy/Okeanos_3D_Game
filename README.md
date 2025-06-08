@@ -13,33 +13,33 @@
 
 
 
-## 🎮 Overview
+## Overview
 
 Okeanos is a 3D adventure game combining Greek mythology with environmental awareness. Set in the lost city of Atlantis, the story follows how human pollution threatens the underwater realm, leading Atlanteans to create a Garbage Monster from accumulated waste to wage war against humanity.
 
-## ✨ Features
+## Features
 
 - Interactive museum showcasing Greek gods
 - Above and underwater navigation
 - Environmental storytelling promoting recycling
 - 3D Atlantis city environment
 
-## 🛠️ Built With
+## Built With
 
 - **Unity 3D**
 - **C#**
 - Multiple scenes with assets integration
 
-## 🚀 Setup
+## Setup
 
 1. Clone the repository
 2. Open project in Unity
 3. Build and run
 
-## 📝 Status
+## Status
 
 Development build with core scenes and navigation implemented. Part of game development coursework.
 
-## 🎯 Story
+## Story
 
 Atlantis is threatened by human waste raining from above. The Atlanteans create a Garbage Monster from the pollution to declare war on humanity - promoting recycling and environmental responsibility.
